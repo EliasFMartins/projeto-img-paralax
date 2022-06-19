@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Fugaz+One&display=swap');
 @import url('https://fonts.googleapis.com/css2? família= Charmonman:wght@400;700 & display=swap');
-@import url('https://fonts.googleapis.com/css2? family= Charmonman:wght@400;700 & display=swap');
+
 
 
 
@@ -68,7 +68,7 @@ section{
   padding-left: 30px;
   /* afastar o texto da borda  */
   font-size: 1.5em;
-  font-family: 'Charmonman', cursive;
+  font-family: 'Ubuntu Mono', monospace;
 }
 section.normal {
   /* todas sections da classe normal vão obter essa configuração */
@@ -77,13 +77,13 @@ section.normal {
 }
 section.imagem{
   /* toda as sections da clase image vão obter essa configurações */
-  background-color: rgba(150, 141, 141, 0.103) ;
+  background-color: rgba(0, 0, 0, 0) ;
   color: aliceblue;
   box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.288);
   background-attachment: fixed;
 }
 section.imagem > p{
-  background-color: rgba(0, 0, 0, 0.568);
+  background-color: rgba(15, 15, 15, 0.432);
   display: inline-block;
  /* com display:inline-block o background-color:  se ajusta ate onde tem palavras muito util ! */
  text-shadow:1px 1px 1px rgba(0, 0, 0, 0.315) ;
