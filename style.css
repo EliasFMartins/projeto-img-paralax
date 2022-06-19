@@ -64,7 +64,7 @@ section{
   padding-top: 10vh;
   padding-bottom: 10vh;
   /* vai ganhar 10% da padding encima e enbaixo de cada paragrafo */
-  line-height: 2em;
+  line-height: 1.5em;
   /* line-height:; e o espacamento entre as linhas ! */
   padding-left: 30px;
   /* afastar o texto da borda  */
