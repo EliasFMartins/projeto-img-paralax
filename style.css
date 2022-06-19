@@ -68,6 +68,7 @@ section{
   padding-left: 30px;
   /* afastar o texto da borda  */
   font-size: 1.5em;
+  font-family: 'Raleway', sans-serif;;
 }
 section.normal {
   /* todas sections da classe normal vão obter essa configuração */
