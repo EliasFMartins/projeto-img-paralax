@@ -68,7 +68,7 @@ section{
   padding-left: 30px;
   /* afastar o texto da borda  */
   font-size: 1.5em;
-  font-family: 'Raleway', sans-serif;;
+  font-family: 'Charmonman', cursive;
 }
 section.normal {
   /* todas sections da classe normal vão obter essa configuração */
@@ -77,7 +77,7 @@ section.normal {
 }
 section.imagem{
   /* toda as sections da clase image vão obter essa configurações */
-  background-color: rgba(150, 141, 141, 0.322) ;
+  background-color: rgba(150, 141, 141, 0.103) ;
   color: aliceblue;
   box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.288);
   background-attachment: fixed;
