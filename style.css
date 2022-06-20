@@ -61,12 +61,10 @@ a:hover{
 section{
   /* todas as sections receberam essas configurações primeiro , mas caso tenha instrução da  section abaixo a ultima prevalecera */
   
-  padding-top: 10vh;
-  padding-bottom: 10vh;
+  padding: 30px 30px 30px 30px;
   /* vai ganhar 10% da padding encima e enbaixo de cada paragrafo */
   line-height: 1.5em;
   /* line-height:; e o espacamento entre as linhas ! */
-  padding-left: 30px;
   /* afastar o texto da borda  */
   font-size: 1.5em;
   font-family: 'Ubuntu Mono', monospace;
@@ -84,6 +82,7 @@ section.imagem{
   background-attachment: fixed;
 }
 section.imagem > p{
+  padding: 12px;
   background-color: rgba(15, 15, 15, 0.432);
   display: inline-block;
  /* com display:inline-block o background-color:  se ajusta ate onde tem palavras muito util ! */
