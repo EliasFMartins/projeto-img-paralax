@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Fugaz+One&display=swap');
 @import url('https://fonts.googleapis.com/css2? família= Charmonman:wght@400;700 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 
 
@@ -88,7 +89,7 @@ section.imagem > p{
  /* com display:inline-block o background-color:  se ajusta ate onde tem palavras muito util ! */
  text-shadow:1px 1px 1px rgba(0, 0, 0, 0.315) ;
 }
-section>p{
+section.normal>p{
   padding-bottom: 1em;
   /* espacamento entre os paragrafos */
 }
